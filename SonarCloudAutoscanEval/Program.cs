@@ -2,3 +2,4 @@
 Console.WriteLine("Hello, World!");
 
 int i;
+Console.WriteLine($"{i}");
